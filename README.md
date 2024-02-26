@@ -17,7 +17,7 @@ Automotive Engineer with over 5 years of professional experience, including 1 ye
 
 - <b>Master Thesis - Porsche Engineering Services GmbH</b>
 
-  - [Digital twin: Development and validation of a vehicle simulation for the integration of highly automated driving functions](https://github.com/ronyshaji)
+  - [Digital twin: Development and validation of a vehicle simulation for the integration of highly automated driving functions](https://github.com/ronyshaji/Master-Thesis)
 - <b>Internship - Magna Telemotive GmbH</b>
   - [ADAS Tool Development](https://github.com/ronyshaji) <b><i></b></i>
 - <b>Student Assistant (HiWi) - CARISSMA Forschungszentrum, TH Ingolstadt</b>
