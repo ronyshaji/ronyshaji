@@ -28,7 +28,7 @@ Automotive Engineer with over 5 years of professional experience, including 1 ye
 
 - <b>Object detection using YoloV7 (Personal Project)</b>
 
-    - [Vehicle License Plate Detection](https://github.com/)
+    - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
 - <b>Investigation of Effect of Vehicle Color On LiDAR Based Detections (Academic Project)</b>
 - <b>Simulation and Thermal Analysis of Air Cooling for Prismatic Lithium- Ion Battery Module (Academic Project)</b>
 
