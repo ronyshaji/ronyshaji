@@ -1,89 +1,90 @@
-<h1>Hi, I'm Rony </h1>
-<b>Autonomous Driving, Electromobility, Vehicle Safety</b></br>
-Automotive Engineer with over 5 years of professional experience, including 1 year specializing in simulation-based validation and verification of automated driving functions. Possesses knowledge in mathematical modeling, software development, and machine learning, with a strong interest in advancing innovations in automated vehicle technology.
+# Hi, I'm Rony 👋
 
-<h2>🎓 Education:</h2>
+**Autonomous Driving | Electromobility | Vehicle Safety**
 
-- <b>Masters - International Automotive Engineering</b>
-  - <i>Technische Hochschule Ingolstadt
-  - Grade:- 1.8 
-  - Courses:- Mathematical Modelling and Simulation, CAx-Techniques in Automotive Engineering, Power Train, Vehicle Dynamics, Automotive Electronics, Vehicle Crash Mechanics and Biomechanics, Integrated Safety and Assistance Systems, Sensor Technology and Signal Processing, Testing and Simulation Methods for Vehicle Safety Systems, Artificial Intelligence and Automotive Systems, Automotive Radar Systems</i>
+Automotive Engineer with over 5 years of professional experience, including 2 year specializing in simulation-based validation and verification of automated driving functions. I have a strong background in mathematical modeling, software development, and machine learning, with a keen interest in advancing innovations in automated vehicle technology.
 
-- <b>Bachelors - Mechanical Engineering</b>
-  - <i>Mahatma Gandhi University, Kerala, India
-  - Grade:- 1.8 </i>
+## 🎯 Projects
 
-<h2>👨‍💻 Professional Experiences:</h2>
+- **OpenStreetMap Path Finder ( C++ Personal Project)** - [Build_OpenStreetMap_Route_Finder](https://github.com/ronyshaji/Udacity_CPP/tree/main/Build_OpenStreetMap_Route_Finder)
 
-- <b>Master Thesis - Porsche Engineering Services GmbH</b>
+- **Object Detection using YOLOv7 (Personal Project)** - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
 
-  - [Digital twin: Development and validation of a vehicle simulation for the integration of highly automated driving functions](https://github.com/ronyshaji/Master-Thesis)
-- <b>Internship - Magna Telemotive GmbH</b>
-  - [ADAS Tool Development](https://github.com/ronyshaji) <b><i></b></i>
-- <b>Student Assistant (HiWi) - CARISSMA Forschungszentrum, TH Ingolstadt</b>
-  - [Simulation and Analysis of Wheel Spray Caused by Vehicles – ANSYS Fluent](https://github.com/ronyshaji)
-- <b>Development Engineer - MRF Tyres India</b>
+- **Youtube Video (Personal Project)** - <a href="https://www.youtube.com/watch?v=lLkFA0fPrgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a><a href="https://www.youtube.com/watch?v=lLkFA0fPrgs" target="blank">Install CARLA Simulator on Windows</a> 
 
-<h2>🎯 Projects:</h2>
+- **Investigation of the Effect of Vehicle Color on LiDAR-Based Detection (Academic Project)**
 
-- <b>Object detection using YoloV7 (Personal Project)</b>
+- **Simulation and Thermal Analysis of Air Cooling for Prismatic Lithium-Ion Battery Module (Academic Project)**
 
-    - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
-- <b>Investigation of Effect of Vehicle Color On LiDAR Based Detections (Academic Project)</b>
-- <b>Simulation and Thermal Analysis of Air Cooling for Prismatic Lithium- Ion Battery Module (Academic Project)</b>
+## 👨‍💻 Professional Experience
 
+- **Research Assistant**  - Technische Hochschule Ingolstadt 
 
-<h2>🧠 Competencies:</h2>
+- **Working Student** - Fraunhofer IVI
 
-- <b>Programming Skills</b>
+- **Master's Thesis** - Porsche Engineering Services GmbH
 
-    <table style="border-collapse: collapse;">
-    <tr><td style="border: none; padding: 2px;">Python :</td> <td style="border: none; padding: 2px;">★★★☆☆</td></tr>
-    <tr><td style="border: none; padding: 2px;">C++ :</td>    <td style="border: none; padding: 2px;">★★☆☆☆</td></tr>
-    <tr><td style="border: none; padding: 2px;">MATLAB :</td>    <td style="border: none; padding: 2px;">★★★☆☆</td></tr>
-    <tr><td style="border: none; padding: 2px;">Simulink :</td> <td style="border: none; padding: 2px;">★★☆☆☆</td></tr>
-     <tr><td style="border: none; padding: 2px;">ROS :</td> <td style="border: none; padding: 2px;">★★★☆☆</td></tr>
-    </table>
+  [Digital Twin: Development and Validation of a Vehicle Simulation for Highly Automated Driving Functions](https://github.com/ronyshaji/Master-Thesis)
 
-- <b>Simulation</b>
-    <table style="border-collapse: collapse;">
-    <tr><td style="border: none; padding: 2px;">CARLA - Autonomous Driving Simulator</td></tr>
-    <tr><td style="border: none; padding: 2px;">Unreal Engine</td></tr>
-    <tr><td style="border: none; padding: 2px;">RoadRunnner</td></tr>
-    <tr><td style="border: none; padding: 2px;">Ansys</td></tr>
-    </table>
+- **Internship**  - Magna Telemotive GmbH
 
-- <b>Technical Proficiencies</b>
-    <table style="border-collapse: collapse;">
-    <tr>
-        <td style="border: none;">Machine Learning</td>
-        <td style="border: none;">Function Development</td>
-        <td style="border: none;">Software-in-the-Loop (SIL)</td>
-        <td style="border: none;">Autonomous Driving</td>
-        <td style="border: none;">ADAS</td>
-        <td style="border: none;">HD Maps</td>
-    </tr>
-    <tr>
-        <td style="border: none;">Simulation</td>
-        <td style="border: none;">Deep Learning</td>
-        <td style="border: none;">Sensor Fusion</td>
-        <td style="border: none;">Data Analysis</td>
-        <td style="border: none;">API</td>
-        <td style="border: none;">CI/CD</td>
-    </tr>
-    <!-- Add more rows as needed -->
-    </table>
+- **Student Assistant** - CARISSMA Forschungszentrum, TH Ingolstadt
+
+- **Development Engineer** - MRF Tyres India  
 
 
+## 🧠 Competencies
+
+- **Programming Skills:**
+
+  - **C++**: ★★★★☆
+  - **Python**: ★★★☆☆
+  - **MATLAB**: ★★★☆☆
+  - **Simulink**: ★★☆☆☆
+  - **ROS**: ★★★☆☆
+
+- **Simulation Tools:**
+
+  - CARLA - Autonomous Driving Simulator
+  - Unreal Engine
+  - RoadRunner
+  - Ansys
+
+- **Technical Proficiencies:**
+
+  - Machine Learning | Deep Learning | Sensor Fusion
+  - Autonomous Driving | ADAS | HD Maps
+  - Simulation | Software-in-the-Loop (SIL)
+  - Data Analysis | CI/CD
+  - V2X Communication
+
+- **Other:**
+  - Linux
+  - Git
+  - Docker
+  - JIRA
+  - OpenDRIVE
+  - OpenSCENARIO
+  - Roadrunner
+
+## 📝 Certifications
+
+ - <a href="https://www.udacity.com/dashboard" target="blank">C++ - Udacity</a>
+ - <a href="https://coursera.org/share/a42eb63af0f1585896efc86f66aff160" target="blank">Python Data Structures - Coursera</a>
+ - <a href="https://coursera.org/share/7195f4d5ad89c9acebc2fb7b1b94d1e0" target="blank">Machine Learning with Python - Coursera</a>
+ - <a href="https://coursera.org/share/4de579858aeac3251eb7aac65d335ddb" target="blank">Programming for Everybody - Coursera</a>
+ - <a href="https://coursera.org/share/491388f24230c7450e1bc85e4a776663" target="blank">Using Python to Access Web Data - Coursera</a>
  
+## 🤳 Connect with Me
 
-<h2> 🤳 Connect with me:</h2>
+I'm always open to new ideas, collaborations, and discussions on innovations in autonomous systems, vehicle safety, and electromobility.
 
-  [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-  [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+<a href="https://linkedin.com/in/ronyshaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronyshaji" height="30" width="40" /></a> 
+<a href="https://instagram.com/rony_shaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rony_shaji" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/c/techgena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a>
+</p>
 
 
-[instagram]: https://www.instagram.com/rony_shaji/
-[linkedin]: https://linkedin.com/in/ronyshaji
 
 
