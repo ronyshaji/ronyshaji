@@ -6,9 +6,11 @@ Automotive Engineer with over 5 years of professional experience, including 2 ye
 
 ## 🎯 Projects
 
-- **OpenStreetMap Path Finder ( C++ Personal Project)** - [Build_OpenStreetMap_Route_Finder](https://github.com/ronyshaji/Udacity_CPP/tree/main/Build_OpenStreetMap_Route_Finder)
+- **Linux System Monitor ( C++ Personal Project )** - [Linux_System_Monitor](https://github.com/ronyshaji/Udacity_CPP/tree/main/Linux_System_Monitor)
 
-- **Object Detection using YOLOv7 (Personal Project)** - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
+- **OpenStreetMap Path Finder ( C++ Personal Project )** - [Build_OpenStreetMap_Route_Finder](https://github.com/ronyshaji/Udacity_CPP/tree/main/Build_OpenStreetMap_Route_Finder)
+
+- **Object Detection using YOLOv7 (Deep Learning)** - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
 
 - **Youtube Video (Personal Project)** - <a href="https://www.youtube.com/watch?v=lLkFA0fPrgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a><a href="https://www.youtube.com/watch?v=lLkFA0fPrgs" target="blank">Install CARLA Simulator on Windows</a> 
 
