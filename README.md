@@ -12,7 +12,7 @@ Automotive Engineer with over 5 years of professional experience, including 2 ye
 
 - **Object Detection using YOLOv7 (Deep Learning)** - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
 
-- **Youtube Video (Personal Project)** - <a href="https://www.youtube.com/watch?v=lLkFA0fPrgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a><a href="https://www.youtube.com/watch?v=lLkFA0fPrgs" target="blank">Install CARLA Simulator on Windows</a> 
+- **Youtube Video (Personal Project)** - <a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a><a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank">Install CARLA Simulator on Windows</a> 
 
 - **Investigation of the Effect of Vehicle Color on LiDAR-Based Detection (Academic Project)**
 
