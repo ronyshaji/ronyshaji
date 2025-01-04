@@ -6,9 +6,9 @@ Automotive Engineer with over 5 years of professional experience, including 2 ye
 
 ## 🎯 Projects
 
-- **Linux System Monitor ( C++ Personal Project )** - [Linux_System_Monitor](https://github.com/ronyshaji/Udacity_CPP/tree/main/Linux_System_Monitor)
+- **Linux System Monitor ( C++ Personal Project )** - [Linux_System_Monitor](https://github.com/ronyshaji/Linux_System_Monitor)
 
-- **OpenStreetMap Path Finder ( C++ Personal Project )** - [Build_OpenStreetMap_Route_Finder](https://github.com/ronyshaji/Udacity_CPP/tree/main/Build_OpenStreetMap_Route_Finder)
+- **OpenStreetMap Path Finder ( C++ Personal Project )** - [Build_OpenStreetMap_Route_Finder](https://github.com/ronyshaji/Build_OpenStreetMap_Route_Finder)
 
 - **Object Detection using YOLOv7 (Deep Learning)** - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
 
