@@ -1,7 +1,8 @@
 # Hi, I'm Rony 👋
 
 **Software Engineer | C++, Python, ROS | ADAS & Autonomous Systems**  
-Personal Portfolio Website: [www.ronyshaji.com](https://www.ronyshaji.com) | [Resume](https://www.ronyshaji.com/resume.pdf)
+<a href="https://www.ronyshaji.com" target="_blank">Personal Portfolio Website</a> | 
+<a href="https://www.ronyshaji.com/resume.pdf" target="_blank">Resume</a>
 
 I am an **Automotive Engineer** with over five years of professional experience, including two years in **agile software development, ADAS simulation, and embedded systems**. I possess strong expertise in **C++ software development, Linux development, and software integration and testing**. Passionate about advancing innovation in autonomous systems, I focus on developing efficient and scalable software solutions for modern vehicle technologies.
 
