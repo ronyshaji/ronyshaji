@@ -1,22 +1,34 @@
 # Hi, I'm Rony 👋
 
-**Autonomous Driving | Electromobility | Vehicle Safety**
+**Software Engineer | C++, Python, ROS | ADAS & Autonomous Systems**  
+Personal Portfolio Website: [www.ronyshaji.com](www.ronyshaji.com) | [Resume](https://www.ronyshaji.com/resume.pdf)
 
-Automotive Engineer with over 5 years of professional experience, including 2 year specializing in simulation-based validation and verification of automated driving functions. I have a strong background in mathematical modeling, software development, and machine learning, with a keen interest in advancing innovations in automated vehicle technology.
+I am an Automotive Engineer with over five years of professional experience, including two years in agile software development, ADAS simulation, and embedded systems. I possess strong expertise in C++ software development, Linux development, and software integration and testing. Passionate about advancing innovation in autonomous systems, I focus on developing efficient and scalable software solutions for modern vehicle technologies.
 
 ## 🎯 Projects
 
-- **Linux System Monitor ( C++ Personal Project )** - [Linux_System_Monitor](https://github.com/ronyshaji/Linux_System_Monitor)
+- **Snake Game (C++ Personal Project)** - [[GitHub]](https://github.com/ronyshaji/Snake-Game)   
+   Developed a classic Snake game using OOP, multithreading, and dynamic memory management.
 
-- **OpenStreetMap Path Finder ( C++ Personal Project )** - [Build_OpenStreetMap_Route_Finder](https://github.com/ronyshaji/Build_OpenStreetMap_Route_Finder)
+- **Traffic Simulation using C++ Concurrency** - [[GitHub]](https://github.com/ronyshaji/Concurrent-Traffic-Simulation)   
+   Built a C++ traffic simulation with thread-safe traffic lights and concurrency mechanisms.
 
-- **Object Detection using YOLOv7 (Deep Learning)** - [Vehicle License Plate Detection](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)
+- **Linux System Monitor (C++)** - [[GitHub]](https://github.com/ronyshaji/Linux_System_Monitor)   
+ Created a real-time system monitoring tool to track CPU, memory, and processes.
 
-- **Youtube Video (Personal Project)** - <a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a><a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank">Install CARLA Simulator on Windows</a> 
+- **OpenStreetMap Path Finder (C++)** - [[GitHub]](https://github.com/ronyshaji/Build_OpenStreetMap_Route_Finder)  
+Implemented shortest path algorithms (A*) on OpenStreetMap data.
 
-- **Investigation of the Effect of Vehicle Color on LiDAR-Based Detection (Academic Project)**
+- **YOLOv7 Object Detection (Deep Learning)** - [[GitHub]](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)  
+Designed an AI-based license plate detection system using YOLOv7.
 
-- **Simulation and Thermal Analysis of Air Cooling for Prismatic Lithium-Ion Battery Module (Academic Project)**
+- **YouTube Video: Install CARLA Simulator on Windows** - <a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a><a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank">[Watch Here]</a> 
+
+- **Investigation of the Effect of Vehicle Color on LiDAR-Based Detection (Academic Project)**  
+Analyzed how vehicle color affects LiDAR reflectivity and detection accuracy.
+
+- **Simulation and Thermal Analysis of Air Cooling for Prismatic Lithium-Ion Battery Module (Academic Project)**  
+Simulated battery thermal performance under various cooling conditions using CFD analysis.
 
 ## 👨‍💻 Professional Experience
 
@@ -25,8 +37,7 @@ Automotive Engineer with over 5 years of professional experience, including 2 ye
 - **Working Student** - Fraunhofer IVI
 
 - **Master's Thesis** - Porsche Engineering Services GmbH
-
-  [Digital Twin: Development and Validation of a Vehicle Simulation for Highly Automated Driving Functions](https://github.com/ronyshaji/Master-Thesis)
+[[GitHub]](https://github.com/ronyshaji/Master-Thesis)
 
 - **Internship**  - Magna Telemotive GmbH
 
@@ -45,6 +56,17 @@ Automotive Engineer with over 5 years of professional experience, including 2 ye
   - **Simulink**: ★★☆☆☆
   - **ROS**: ★★★☆☆
 
+- **Development Tools:**
+
+  - CI/CD - Jenkins
+  - Linux
+  - Git
+  - Docker
+  - JIRA
+  - OpenDRIVE
+  - OpenSCENARIO
+  - Roadrunner
+
 - **Simulation Tools:**
 
   - CARLA - Autonomous Driving Simulator
@@ -54,24 +76,24 @@ Automotive Engineer with over 5 years of professional experience, including 2 ye
 
 - **Technical Proficiencies:**
 
+  - Embedded Systems
   - Machine Learning | Deep Learning | Sensor Fusion
   - Autonomous Driving | ADAS | HD Maps
   - Simulation | Software-in-the-Loop (SIL)
   - Data Analysis | CI/CD
   - V2X Communication
+  - Sensor Fusion
 
-- **Other:**
-  - Linux
-  - Git
-  - Docker
-  - JIRA
-  - OpenDRIVE
-  - OpenSCENARIO
-  - Roadrunner
+- **Soft Skills:**
+  - Problem Solving
+  - Analytical Skills
+  - Teamwork
+  - Quick Learner
+  - Communication
 
 ## 📝 Certifications
 
- - <a href="https://www.udacity.com/dashboard" target="blank">C++ - Udacity</a>
+ - <a href="https://www.udacity.com/certificate/e/fad34472-9887-11ef-b2a3-8bcb7699f494" target="blank">C++ - Udacity</a>
  - <a href="https://coursera.org/share/a42eb63af0f1585896efc86f66aff160" target="blank">Python Data Structures - Coursera</a>
  - <a href="https://coursera.org/share/7195f4d5ad89c9acebc2fb7b1b94d1e0" target="blank">Machine Learning with Python - Coursera</a>
  - <a href="https://coursera.org/share/4de579858aeac3251eb7aac65d335ddb" target="blank">Programming for Everybody - Coursera</a>
